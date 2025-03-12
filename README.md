@@ -1,3 +1,5 @@
 ![alt text](/assets/WROOMsday.png)
 
-WROOMsday. An ESP32-WROOM Hacking device.
+> [!NOTE]
+> WROOMsday. An ESP32-WROOM Hacking device. Also a play-on words with Doomsday.
+
